@@ -1,8 +1,9 @@
-# Conf App Boilerplate
+# App Mobile Conf 2015
 
-Boilerplate of mobile application to help people who wants to organize conferences/events and don't have time enough
-to create an app with information about the event.
+Aplicativo híbrido, desenvolvido com [Ionic Framework](http://ionicframework.com/) para o [Mobile Conf 2015](http://mobileconf.com.br/) com o 
+objetivo de demonstrar aos participantes do evento a beleza e a linda performance do [Ionic Framework](http://ionicframework.com/).
 
 ---
 
-This branch contains the [Ionic](http://ionicframework.com/) application that will fetch data from branch `gh-pages`.
+Boilerplate of mobile application to help people who wants to organize conferences/events and don't have time enough
+to create an app with information about the event.
