@@ -1,0 +1,32 @@
+<ion-view class="schedule-view">
+  <ion-nav-title class="has-tabs-top">
+    <span>Programação</span>
+  </ion-nav-title>
+
+  <ion-tabs class="tabs-striped tabs-top tabs-color-light">
+
+    <ion-tab class="tab-title" title="Track Mobile">
+        <ion-pane>
+            <ion-content class="padding">
+                <div>
+                    <div class="item item-text-wrap card" ng-repeat="attraction in attractions.day1">
+                        <div schedule-attraction class="schedule-attraction"></div>
+                    </div>
+                </div>
+            </ion-content>
+      </ion-pane>
+    </ion-tab>
+
+    <ion-tab class="tab-title" title="Track Back-End">
+        <ion-pane>
+            <ion-content class="padding">
+                <div>
+                    <div class="item item-text-wrap card" ng-repeat="attraction in attractions.day2">
+                        <div schedule-attraction class="schedule-attraction"></div>
+                    </div>
+                </div>
+            </ion-content>
+      </ion-pane>
+    </ion-tab>
+  </ion-tabs>
+</ion-view>

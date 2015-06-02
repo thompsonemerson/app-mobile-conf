@@ -1,0 +1,12 @@
+{
+  "name": "Mobile Conf 2015",
+  "app_id": "20482a46",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/assets/lib/**/*"
+  ]
+}

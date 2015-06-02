@@ -1,0 +1,440 @@
+[
+  {
+    "id":"1",
+    "title":"Credenciamento",
+    "time":{
+      "start":"8:20"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day1"
+  },
+  {
+    "id":"1",
+    "title":"Credenciamento",
+    "time":{
+      "start":"8:20"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day2"
+  },
+  {
+    "id":"2",
+    "title":"O que aprendemos na SoundCloud sobre micro-serviços?",
+    "time":{
+      "start":"9:10"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Phil Calçado",
+        "image":"http://www.mobileconf.com.br/images/speakers/phil_calcado.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/phil_calcado.jpg",
+    "description":"A SoundCloud é o maior repositório de áudio e música da Internet. A plataforma é visitada mensalmente por mais de 200 milhões de pessoas, que à cada minuto fazem upload de 11 horas de áudio. Nos últimos anos, nós migramos de uma arquitetura monolítica tradicional para micro-serviços, e durante essa jornada nós descobrimos o que é fato e o que é hype sobre esta arquietura. Neste keynote, vamos rever os resultados que obtivemos na nossa jornada, e que tecnologias, padrões e processos nós adotamos.",
+    "date":"day1"
+  },
+  {
+    "id":"2",
+    "title":"O que aprendemos na SoundCloud sobre micro-serviços?",
+    "time":{
+      "start":"9:10"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Phil Calçado",
+        "image":"http://www.mobileconf.com.br/images/speakers/phil_calcado.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/phil_calcado.jpg",
+    "description":"A SoundCloud é o maior repositório de áudio e música da Internet. A plataforma é visitada mensalmente por mais de 200 milhões de pessoas, que à cada minuto fazem upload de 11 horas de áudio. Nos últimos anos, nós migramos de uma arquitetura monolítica tradicional para micro-serviços, e durante essa jornada nós descobrimos o que é fato e o que é hype sobre esta arquietura. Neste keynote, vamos rever os resultados que obtivemos na nossa jornada, e que tecnologias, padrões e processos nós adotamos.",
+    "date":"day2"
+  },
+  {
+    "id":"3",
+    "title":"Coffee-break",
+    "time":{
+      "start":"10:10"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day1"
+  },
+  {
+    "id":"3",
+    "title":"Coffee-break",
+    "time":{
+      "start":"10:10"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day2"
+  },
+  {
+    "id":"4",
+    "title":"DESMISTIFICANDO O PHONEGAP",
+    "time":{
+      "start":"10:50"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Loiane Groner",
+        "image":"http://www.mobileconf.com.br/images/speakers/loiane-groner.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/loiane-groner.jpg",
+    "description":"O phonegap é um framework para desenvolvimento de apps mobile híbridas multiplataforma. Por esse motivo, existem muitos mitos sobre a 'mágica' desse framework. Vamos ver o que podemos fazer com phonegap, o que não dá pra fazer com phonegap, desvendar os mitos, e como é o processo de criação de um projeto até o envio da app pronta para a app store da maneira mais fácil possível.",
+    "date":"day1"
+  },
+  {
+    "id":"5",
+    "title":"USER EXPERIENCE MOBILE: TESTANDO COM USUÁRIOS",
+    "time":{
+      "start":"11:40"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Horácio Soares e Leonardo Caetano",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"É cada vez maior a demanda por projetos Mobile, assim como os desafios de desenvolver sistemas/sites/aplicativos Mobile com qualidade, que satisfaçam as expectativas e necessidades dos usuários, nos mais diversos contextos. Como projetar soluções com qualidade dentro de um universo tão rico em possibilidades e com novos e desafiadores paradigmas do mundo móvel? Como validar o seu projeto realizando testes de usabilidade com usuários? Venha conhecer alguns princípios User Experience Mobile e como aplicar testes de usabilidade em dispositivos móveis com protótipos de baixa, média e alta fidelidade.",
+    "date":"day1"
+  },
+  {
+    "id":"6",
+    "title":"Almoço",
+    "time":{
+      "start":"12:30"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day1"
+  },
+  {
+    "id":"7",
+    "title":"SWIFT: UMA RELAÇÃO DE AMOR E ÓDIO",
+    "time":{
+      "start":"13:30"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Guilherme Silveira",
+        "image":"http://www.mobileconf.com.br/images/speakers/guilherme-silveira.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/guilherme-silveira.jpg",
+    "description":"'Se der pau, restarta' - programador Windows em 1990. 'Se der pau, dá F5' - programador web em 2010. Aplicação crashear na web, 'tudo bem': o usuário dá refresh. Aplicação crashear em mobile? Sem chance, você perde o usuário. O que o Swift, a nova linguagem da Apple, faz para diminuir os erros do desenvolvedor? (Ou o desenvolvedor não erra?) Veremos erros tradicionais de desenvolvedores para 'dispositivos e momentos' mobile - desde o backend até o frontend. E como Swift tenta atacar alguns desses problemas, facilitando a porta de entrada de novos desenvolvedores e ao mesmo tempo tornando mais populares alguns conceitos delicados de programação como o uso de optionals. Antes de usar cegamente novas funcionalidades como optionals, vamos procurar o entender que acontece na memória, os motivos das decisões da linguagem e como não criar problemas ainda maiores. Bugs, compilação, refatoração, drag and drop. Será esse o caminho? Qual a diferença entre o que a linguagem propõe e a API e a IDE fornecem? Essa palestra será descontraída, incentivando a discussão sobre características do Swift e a rede de segurança que compiladores fornecem. É presumido apenas um coração de programador e um senso crítico de que nem tudo em uma linguagem nova são flores.",
+    "date":"day1"
+  }, 
+  {
+    "id":"8",
+    "title":"ARQUITETURA DE APPS EM CENÁRIOS OFFLINE",
+    "time":{
+      "start":"14:20"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Gustavo Barbosa",
+        "image":"http://www.mobileconf.com.br/images/speakers/gustavo-barbosa.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/gustavo-barbosa.jpg",
+    "description":"Atualmente, a maioria dos aplicativos que vemos na App Store faz uso de internet, seja através de requests à APIs, componentes sociais, ou qualquer outra funcionalidade que acesse recursos fora do contexto do device. Infelizmente, nem em todo lugar encontramos internet de qualidade ou, às vezes, sequer possuímos conexão. Como os aplicativos se comportam nesse momento? Nessa apresentação, veremos como arquitetar um aplicativo que responda aos seus usuários nesses casos, utilizando práticas como cache de respostas, local storage, enfileiramento de requisições e sincronização com APIs.",
+    "date":"day1"
+  },
+  {
+    "id":"10",
+    "title":"Coffee-break",
+    "time":{
+      "start":"15:10"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day1"
+  },
+  {
+    "id":"9",
+    "title":"ONE APP TO RULE THEM ALL: COMO GERAR VERSÕES DE APPS DIFERENTES A PARTIR DA MESMA BASE DE CÓDIGO",
+    "time":{
+      "start":"16:00"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Jonas Tomaz",
+        "image":"http://www.mobileconf.com.br/images/speakers/jonas-tomaz.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/jonas-tomaz.jpg",
+    "description":"Atualmente, existem diferentes abordagens para gerar apps que tenham apresentações diferentes, mas que essencialmente possuem o mesmo conjunto de funcionalidades. Por exemplo, você tem uma versão paga e uma versão de graça (com anúncios) do seu app. Como você gerencia os seus builds a partir de uma mesma base de código, de forma sustentável? Ou melhor, o seu aplicativo pode ter brands diferentes, mas essencialmente é o mesmo app. Como você organiza e muda a sua forma de desenvolver para gerenciar essa base de código? Vamos abordar as diversas soluções, seus prós e contras, e as nuances para as principais plataformas, iOS e Android.",
+    "date":"day1"
+  },
+  {
+    "id":"11",
+    "title":"APPCOMPAT V22 - MATERIAL DESIGN PARA ANDROIDS PRÉ-LOLLIPOP",
+    "time":{
+      "start":"16:50"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Walmyr Carvalho",
+        "image":"http://www.mobileconf.com.br/images/speakers/walmyr-carvalho.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/walmyr-carvalho.jpg",
+    "description":"O Google anunciou o Android 5.0 Lollipop e com ele o Material Design, novo design language da empresa para web e mobile que melhora bastante a experiência do usuário com uma reformulação visual de todo o sistema. Nesse talk, vamos aprender um pouco mais sobre o AppCompat, biblioteca de suporte que trouxe as novidades do Holo para versões pré-Ice Cream Sandwich, e que na sua última versão trás o Material Design para versões pré-Lollipop. A idéia é aprender um pouco sobre como migrar do Holo para Material, além de conhecer outras bibliotecas como o RecyclerView, CardView e Palette.",
+    "date":"day1"
+  },
+  {
+    "id":"12",
+    "title":"(SHORT TALK) TESTES DE UNIDADE COM ROBOLECTRIC",
+    "time":{
+      "start":"17:40"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Lucas Albuquerque e Stefan Teixeira",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"Quando falamos sobre testes automatizados para apps Android, muito se fala sobre testes pela UI, simulando as ações de um usuário. Esse tipo de teste é, sem dúvidas, essencial para aplicações mobile em geral. Entretanto, testar somente pela UI torna mais difícil a obtenção de feedback rápido dos testes. É aí que entram os testes de unidade! Nesta short talk, vamos mostrar a importância de testes de unidade para apps Android, além de apresentar um framework que pode simplificar muito a sua vida: o Robolectric.",
+    "date":"day1"
+  },
+  {
+    "id":"13",
+    "title":"(SHORT TALK) ANDROIDANNOTATIONS",
+    "time":{
+      "start":"18:00"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Rodrigo Amora",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"O AndroidAnnotations é framework open-sourcen que facilita e agiliza o desenvolvimento de apps Android com o uso de anotations.",
+    "date":"day1"
+  },
+  {
+    "id":"14",
+    "title":"(SHORT TALK) IONIC FRAMEWORK E SUA LINDA PERFORMANCE",
+    "time":{
+      "start":"18:20"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Emerson Thompson",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"Ionic é um dos mais novos frameworks para desenvolvimento mobile híbrido, criado em 2013, sua comunidade cresce a cada dia, e tem chamado bastante atenção de muitos desenvolvedores pela sua linda e maravilhosa performance diante das outros frameworks (titanium, phonegap, ...), chegando a ser quase idêntico as aplicações nativas. A sua grande arma é a utilização do AngularJS e Cordova, tendo como base HTML5, tornando o seu fácil desenvolvimento.",
+    "date":"day1"
+  },
+  {
+    "id":"15",
+    "title":"ENCERRAMENTO E SORTEIO",
+    "time":{
+      "start":"18:40"
+    },
+    "type":"general",
+    "date":"day1"
+  },
+  {
+    "id":"16",
+    "title":"COMO O HTTP/2 VAI MUDAR SUA VIDA",
+    "time":{
+      "start":"10:50"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Sergio Lopes",
+        "image":"http://www.mobileconf.com.br/images/speakers/sergio-lopes.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/sergio-lopes.jpg",
+    "description":"O HTTP é a base da Web. Então quando se lança uma nova versão depois de décadas, é bom ficar de olho. E a nova verão 2.0 traz muitas melhorias de performance essenciais, que melhorarão tudo pro usuário e deixarão a vida do desenvolvedor Web mais fácil. Nessa palestra, vamos ver os novos recursos do HTTP/2 e como eles simplificam o desenvolvimento, tornam obsoletas várias práticas atuais e deixam as páginas mais rápidas.",
+    "date":"day2"
+  },
+  {
+    "id":"17",
+    "title":"CIENTISTA DE DADOS: QUEM É, O QUE FAZ, COMO FAZ E POR QUE É IMPORTANTE PARA O MUNDO MOBILE",
+    "time":{
+      "start":"11:40"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Rodrigo Senra",
+        "image":"http://www.mobileconf.com.br/images/speakers/rodrigo-senra.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/rodrigo-senra.jpg",
+    "description":"Há pouco tempo não existia, depois virou a 'profissão do futuro', e agora é a 'profissão da moda'. Toda empresa quer um, do Facebook até times profissionais de basquete. Mas como isso se relaciona com mobile ? Simples: {∀ pessoa | (pessoa ⊳ celular) → BigData = $$$} As apps mobile tem o potencial de gerar uma enorme quantidade de dados, considerando o volume de usuários e a presença de sensores (áudio, vídeo, GPS, acelerômetro, etc). Cabe ao cientista de dados viabilizar a transformação desses dados em informação estruturada, e gerar conhecimento para evoluir a engenharia da solução, e alavancar o negócio. Nesta palestra técnica vamos apresentar os desafios e algumas ferramentas da profissão mais sexy do século 21. O objetivo principal será passar, de forma didática, uma visão completa do que vem a ser um Cientista de Dados. É importante, pois você ainda pode se tornar um!",
+    "date":"day2"
+  },
+  {
+    "id":"6",
+    "title":"Almoço",
+    "time":{
+      "start":"12:30"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day2"
+  },
+  {
+    "id":"18",
+    "title":"VIDA LONGA PARA SOA COM MICROSERVICES",
+    "time":{
+      "start":"13:30"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Gustavo Serafim",
+        "image":"http://www.mobileconf.com.br/images/speakers/gustavo-serafim.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/gustavo-serafim.jpg",
+    "description":"A arquitetura de micro-serviços é fundamentada na explosão de uma aplicação grande e monolítica em um conjunto de APIs e componentes muito pequenos, com baixíssima capacidade funcional, visando independência e autonomia dessas pequenas partes. Nessa palestra vamos explorar alguns casos de uso desse estilo arquitetural, as motivações para a utilização da arquitetura de micro-serviços, comparando-a com as abordagens tradicionais de SOA e arquiteturas monolíticas. Veremos também quais os benefícios e desafios na composição das equipes de projetos, na comunicação entre os serviços e no gerenciamento dos dados.",
+    "date":"day2"
+  },
+  {
+    "id":"19",
+    "title":"ARQUITETANDO UM SISTEMA DE RECOMENDAÇÃO DE PONTA A PONTA",
+    "time":{
+      "start":"14:20"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Tiago Motta",
+        "image":"http://www.mobileconf.com.br/images/speakers/tiago-motta.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/tiago-motta.jpg",
+    "description":"Saiba como o sistema de recomendação da globo.com funciona e como foi desenvolvido. A palestra abordará temas de coleta e processamento de dados além da análise de algoritmos de machine learning.",
+    "date":"day2"
+  },
+  {
+    "id":"10",
+    "title":"Coffee-break",
+    "time":{
+      "start":"15:10"
+    },
+    "type":"general",
+    "room":"",
+    "date":"day2"
+  },
+  {
+    "id":"20",
+    "title":"TO BE OR NOT TO BE MEAN?",
+    "time":{
+      "start":"16:00"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Flávio Almeida",
+        "image":"http://www.mobileconf.com.br/images/speakers/flavio-almeida.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/flavio-almeida.jpg",
+    "description":"A MEAN Stack é uma solução completa para desenvolvimento de Single Page Applications (SPA) na plataforma Node.js utilizando AngularJS para views dinâmicas, Express para construir API's REST de alto nível e MongoDB para persistência. A combinação desse quarteto resulta na onipresença da linguagem JavaScript em todas as camadas da aplicação. Mas será que essa característica é o grande diferencial da stack? Que outros benefícios ela oferece para o desenvolvimento profissional de aplicações? Há limitações? Nesta palestra Flávio Almeida examinará a MEAN Stack, seu contexto histórico, seus benefícios e limitações.",
+    "date":"day2"
+  },
+  {
+    "id":"21",
+    "title":"OS 7 PECADOS CAPITAIS NA EXPOSIÇÃO DE APIS RESTFUL",
+    "time":{
+      "start":"16:50"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Marcilio Oliveira",
+        "image":"http://www.mobileconf.com.br/images/speakers/marcilio-oliveira.jpg"
+      }
+    ],
+    "background_img":"http://www.mobileconf.com.br/images/speakers/marcilio-oliveira.jpg",
+    "description":"Impulsionadas pelas estratégias digitais em mobilidade, cloud, mídias sociais e internet das coisas, as APIs estão realmente entrando no dia-a-dia das equipes de desenvolvimento, seja de startups, começando a desenvolver seus produtos, seja de grandes empresas, que carregam um grande legado de sistemas e investimentos já realizados em middlewares de integração. Diversas razões que podem levar uma empresa a expor APIs. Mas seja qual for a sua, alguns cuidados são imprescindíveis para que as APIs tragam os resultados esperados. O objetivo dessa sessão é apresentar os 7 pecados capitais que muitas implementações de APIs RESTful têm cometido. Nessa apresentação serão abordados tópicos como: <br> Proposição de valor da API Design de RESTful Resources (URIs, verbos, filtros e paginação) <br> Design de RESTful Resources (URIs, verbos, filtros e paginação) <br> Modelos de segurança <br> Versionamento de APIs <br> Hypermedia & Callbacks <br> Padronização de erros & status code <br> Onboarding, divulgação e engajamento",
+    "date":"day2"
+  },
+  {
+    "id":"22",
+    "title":"(SHORT TALK) PROTEGENDO SEU PROVEDOR OAUTH 2 CONTRA ATAQUES CSRF",
+    "time":{
+      "start":"17:40"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Leonardo Cordeiro",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"OAuth2 é uma especificação de autenticação e autorização amplamente usada em serviços REST. Facebook, Github e a Google são exemplos de provedores que usam a especificação para controlar o acesso aos dados de seus usuários, o que aumenta ainda mais a adoção por essa tecnologia. Porém, alguns requesitos de segurança da especificação acabam sendo deixados de lado, o que pode deixar os clientes vulneráveis a ataques. Nessa palestra, veremos como proteger o provedor OAuth 2 contra ataques Cross Site Request Forgery de forma fácil.",
+    "date":"day2"
+  },
+  {
+    "id":"23",
+    "title":"(SHORT TALK) DE 0 A 100 MIL REQUESTS POR SEGUNDO",
+    "time":{
+      "start":"18:00"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Vinicius Pacheco",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"Com o crescimento de acesso à web e o aumento do exponencial do número de usuário, cada vez mais precisamos de serviços mais robustos e escaláveis. Nessa palestra será mostrado um caso real da Globo.com de como saímos de três mil requisições por segundo para picos de cento e vinte duas mil requisições por segundo adotando micro serviços, tráfego de binários entre outros recursos para agilizar processamento e economizar memória.",
+    "date":"day2"
+  },
+  {
+    "id":"24",
+    "title":"(SHORT TALK) CONHEÇA O METEOR!",
+    "time":{
+      "start":"18:20"
+    },
+    "type":"talk",
+    "speakers":[
+      {
+        "name":"Frederico Maia",
+        "image":""
+      }
+    ],
+    "background_img":"",
+    "description":"Conheça o Meteor que é uma plataforma de desenvolvimento simples e coesa criada para tornar o desenvolvimento web mais fácil. Meteor faz parte de uma nova geração de tecnologias que trabalham para tornar a web real-time e reativa, elevando o desenvolvimento de software a um novo nível, viabilizando prototipação e desenvolvimento rápidos e de quebra, produzindo aplicações cross-platform (web, Android, iOS).",
+    "date":"day2"
+  },
+  {
+    "id":"15",
+    "title":"ENCERRAMENTO E SORTEIO",
+    "time":{
+      "start":"18:40"
+    },
+    "type":"general",
+    "date":"day2"
+  }
+]

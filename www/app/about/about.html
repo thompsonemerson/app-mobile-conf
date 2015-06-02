@@ -1,0 +1,26 @@
+<ion-view class="about-view">
+  <ion-nav-title>
+    <span>Sobre</span>
+  </ion-nav-title> 	
+  <ion-content>
+  <div class="about">
+      <div class="item item-image">
+        <img class="full-image about-image" ng-src="assets/img/banner-about.jpg">
+      </div>
+      <div class="item item-body">
+        <p class="about-description" ng-bind-html="about.description | rawHtml">
+        </p>
+        <div class="about-buttons">
+          <div class="row">
+            <div class="col">
+              <a ng-if="about.contact.website" href="" ng-click="goToUrl('http://{{about.contact.website}}')" class="button button-small button-outline button-block">Website</a>
+			  <a ng-if="about.contact.email" href="" ng-click="goToUrl('mailto:{{about.contact.email}}')" class="button button-small button-outline button-block">Email</a>
+			  <a ng-if="about.contact.twitter" href="" ng-click="goToUrl('http://twitter.com/{{about.contact.twitter}}')" class="button button-small button-outline button-block">Twitter</a>
+              <a ng-if="about.contact.facebook" href="" ng-click="goToUrl('http://www.facebook.com/{{about.contact.facebook}}')" class="button button-small button-outline button-block">Facebook</a>
+			  <a ng-if="about.contact.github" href="" ng-click="goToUrl('https://github.com/{{about.contact.github}}')" class="button button-small button-outline button-block">Github</a>
+            </div>			
+          </div>
+        </div>
+      </div>	  
+    </ion-content>
+</ion-view>

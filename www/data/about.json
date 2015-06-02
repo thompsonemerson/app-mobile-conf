@@ -1,0 +1,10 @@
+{
+  "name": "Mobile Conf Rio",
+  "edition": "2015",
+  "description": "Com a Mobile Conf abordaremos o que há de novidade e conhecimentos essenciais a um desenvolver mobile. <br>É uma grande chance de ficar por dentro dos assuntos de Android, iOS, Web mobile, desenvolvimento híbrido, UX, além da parte backend com Rest, Microservices, e BigData. O desenvolvedor atualizado vai estar aqui.",
+  "logo": "",
+  "contact": {  
+    "website": "www.mobileconf.com.br",
+    "email": "contato.rio@caelum.com.br"
+  }   
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "name":"Phil Calçado",
+    "bio":"Director of Core Engineering na SoundCloud \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/phil_calcado.jpg",
+    "twitter":"pcalcado",
+    "attraction_id":"2"
+  },
+  {
+    "name":"Sérgio Lopes",
+    "bio":"Coordenador da Caelum \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/sergio-lopes.jpg",
+    "twitter":"sergio_caelum",
+    "attraction_id":"16"
+  },
+  {
+    "name":"Loiane Groner",
+    "bio":"Evangelista Phonegap \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/loiane-groner.jpg",
+    "twitter":"loiane",
+    "attraction_id":"4"
+  },
+  {
+    "name":"Gustavo Barbosa",
+    "bio":"Mobile Engineer - LoadSmart \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/gustavo-barbosa.jpg",
+    "twitter":"gustavocsb",
+    "attraction_id":"8"
+  },
+  {
+    "name":"Guilherme Silveira",
+    "bio":"Lider técnico - Caelum \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/guilherme-silveira.jpg",
+    "twitter":"guilhermecaelum",
+    "attraction_id":"7"
+  },
+  {
+    "name":"Gustavo Serafim",
+    "bio":"Gerente de Consultoria na Sensedia \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/gustavo-serafim.jpg",
+    "twitter":"gusinis",
+    "attraction_id":"18"
+  },
+  {
+    "name":"Jonas Tomaz",
+    "bio":"Desenvolvedor - Concrete Solutions \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/jonas-tomaz.jpg",
+    "twitter":"Jonas_Tomaz",
+    "attraction_id":"9"
+  },
+  {
+    "name":"Flávio Almeida",
+    "bio":"Desenvolvedor e instrutor - Caelum \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/flavio-almeida.jpg",
+    "twitter":"flaviohalmeida",
+    "attraction_id":"20"
+  },
+  {
+    "name":"Tiago Motta",
+    "bio":"Desenvolvedor - Globo.com \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/tiago-motta.jpg",
+    "attraction_id":"19"
+  },
+  {
+    "name":"Walmyr Carvalho",
+    "bio":"Desenvolvedor Android - CI&T \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/walmyr-carvalho.jpg",
+    "twitter":"walmyrcarvalho",
+    "attraction_id":"11"
+  },
+  {
+    "name":"Horácio Soares",
+    "bio":"Product Owner Mobile - Hotel Urbano \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/horacio-soares.jpg",
+    "twitter":"horaciosoares",
+    "attraction_id":"5"
+  },
+  {
+    "name":"Rodrigo Senra",
+    "bio":"Consultant Research Scientist - EMC \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/rodrigo-senra.jpg",
+    "attraction_id":"17"
+  },
+  {
+    "name":"Leonardo Caetano",
+    "bio":"UX Designer Mobile - Hotel Urbano \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/leonardo-caetano.jpg",
+    "twitter":"leocaetano",
+    "attraction_id":"5"
+  },
+  {
+    "name":"Marcilio Oliveira",
+    "bio":"COO da Sensedia \n",
+    "photo":"http://www.mobileconf.com.br/images/speakers/marcilio-oliveira.jpg",
+    "twitter":"marcilioso",
+    "attraction_id":"21"
+  }
+]
