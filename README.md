@@ -4,9 +4,9 @@ Aplicativo híbrido, desenvolvido com [Ionic Framework](http://ionicframework.co
 objetivo de demonstrar aos participantes do evento a beleza e a linda performance do [Ionic Framework](http://ionicframework.com/).
 
 ## Links Úteis
-[App Download](goo.gl/wY5aoO)
-[Mobile Conf](http://mobileconf.com.br)
-[Ionic Framework](http://ionicframework.com)
+[App Download](http://goo.gl/wY5aoO)<br>
+[Mobile Conf](http://mobileconf.com.br)<br>
+[Ionic Framework](http://ionicframework.com)<br>
 
 ---
 
