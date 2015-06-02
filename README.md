@@ -5,6 +5,7 @@ objetivo de demonstrar aos participantes do evento a beleza e a linda performanc
 
 ## Links Úteis
 [App Download](http://goo.gl/wY5aoO)<br>
+[Slide da Paletra](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015)<br>
 [Mobile Conf](http://mobileconf.com.br)<br>
 [Ionic Framework](http://ionicframework.com)<br>
 
