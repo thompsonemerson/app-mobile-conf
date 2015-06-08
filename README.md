@@ -3,11 +3,13 @@
 Aplicativo híbrido, desenvolvido com [Ionic Framework](http://ionicframework.com/) para o [Mobile Conf 2015](http://mobileconf.com.br/) com o 
 objetivo de demonstrar aos participantes do evento a beleza e a linda performance do [Ionic Framework](http://ionicframework.com/).
 
+## Download do App
+[App Download](https://github.com/thompsonemerson/app-mobile-conf/blob/master/app-mobileconf.apk?raw=true)
+
 ## Links Úteis
-[App Download](http://goo.gl/wY5aoO)<br>
-[Slide da Paletra](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015)<br>
-[Mobile Conf](http://mobileconf.com.br)<br>
-[Ionic Framework](http://ionicframework.com)<br>
+*[Slide da Paletra](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015)
+*[Mobile Conf](http://mobileconf.com.br)
+*[Ionic Framework](http://ionicframework.com)
 
 ---
 
