@@ -4,7 +4,8 @@ Aplicativo híbrido, desenvolvido com [Ionic Framework](http://ionicframework.co
 objetivo de demonstrar aos participantes do evento a beleza e a linda performance do [Ionic Framework](http://ionicframework.com/).
 
 ## Download do App
-[App Download](https://github.com/thompsonemerson/app-mobile-conf/blob/master/app-mobileconf.apk?raw=true)
+[App Download](https://github.com/thompsonemerson/app-mobile-conf/blob/master/app-mobileconf.apk?raw=true)<br>
+Ionic View - ID 20482a46
 
 ## Links Úteis
 [Slide da Paletra](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015)<br>
